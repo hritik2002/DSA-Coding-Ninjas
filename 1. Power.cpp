@@ -11,3 +11,4 @@ int main(){
     cin>>n>>p;
     cout<<n<<" raise to "<<p<<" is "<<Power(n,p);
 }
+
