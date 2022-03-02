@@ -4,6 +4,7 @@
 //* 8
 //* Sample Output 1 :
 //* true
+// Check if a number is present or not in the given array
 
 #include<bits/stdc++.h>
 using namespace std;
