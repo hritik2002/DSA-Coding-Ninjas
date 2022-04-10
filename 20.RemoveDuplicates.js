@@ -13,4 +13,4 @@ function removeConsecutiveDuplicates(str){
     
 }
 let str = "aabbaa"
-console.log(removeConsecutiveDuplicates(str))
+console.log(removeConsecutiveDuplicates(str));
